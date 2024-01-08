@@ -10,8 +10,8 @@ using namespace cv;
 
 int main(int argc, char **argv) {
 
-    Mat img_1 = imread("/home/wei/visual_odom_practice/match/test1.jpg");
-    Mat img_2 = imread("/home/wei/visual_odom_practice/match/test2.jpg");
+    Mat img_1 = imread("/home/wei/visual_odom_practice/match/test3.jpg");
+    Mat img_2 = imread("/home/wei/visual_odom_practice/match/test4.jpg");
 
     // initialize
     std::vector<KeyPoint> keypoints_1, keypoints_2;

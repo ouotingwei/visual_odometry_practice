@@ -1,0 +1,3 @@
+/home/wei/visual_odom_practice/3d_2d_pose_estimation/build/CMakeFiles/3d_2d.dir
+/home/wei/visual_odom_practice/3d_2d_pose_estimation/build/CMakeFiles/edit_cache.dir
+/home/wei/visual_odom_practice/3d_2d_pose_estimation/build/CMakeFiles/rebuild_cache.dir

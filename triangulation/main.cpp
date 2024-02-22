@@ -3,7 +3,7 @@
 #include <opencv2/features2d/features2d.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/calib3d/calib3d.hpp>
-#include "extra.h" // used in opencv2 
+#include "extra.h" // used in opencv
 
 using namespace std;
 using namespace cv;
